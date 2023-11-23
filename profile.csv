@@ -1,0 +1,11 @@
+ticker,ceo,company,price,sector,city,state,country,zip,ceo_compensation,image,exchange
+AAPL,Mr. Timothy D. Cook,Apple Inc.,191.45,Technology,Cupertino,CA,US,95014,99000000,https://financialmodelingprep.com/image-stock/AAPL.png,NASDAQ
+AMZN,Mr. Andrew R. Jassy,"Amazon.com, Inc.",146.13,Consumer Cyclical,Seattle,WA,US,98109-5210,1300000,https://financialmodelingprep.com/image-stock/AMZN.png,NASDAQ
+GOOG,Mr. Sundar  Pichai,Alphabet Inc.,137.92,Communication Services,Mountain View,CA,US,94043,226000000,https://financialmodelingprep.com/image-stock/GOOG.png,NASDAQ
+JPM,Mr. James  Dimon,JPMorgan Chase & Co.,153.29,Financial Services,New York,NY,US,10179,34800000,https://financialmodelingprep.com/image-stock/JPM.png,NYSE
+LLY,Mr. David A. Ricks,Eli Lilly and Company,597.6,Healthcare,Indianapolis,IN,US,46285,21400000,https://financialmodelingprep.com/image-stock/LLY.png,NYSE
+META,Mr. Mark Elliot Zuckerberg,"Meta Platforms, Inc.",339.97,Communication Services,Menlo Park,CA,US,94025,27000000,https://financialmodelingprep.com/image-stock/META.png,NASDAQ
+MSFT,Mr. Satya  Nadella,Microsoft Corporation,377.44,Technology,Redmond,WA,US,98052-6399,48500000,https://financialmodelingprep.com/image-stock/MSFT.png,NASDAQ
+NVDA,Mr. Jen-Hsun  Huang,NVIDIA Corporation,504.09,Technology,Santa Clara,CA,US,95051,21400000,https://financialmodelingprep.com/image-stock/NVDA.png,NASDAQ
+TSLA,Mr. Elon R. Musk,"Tesla, Inc.",235.6,Consumer Cyclical,Austin,TX,US,78725,0,https://financialmodelingprep.com/image-stock/TSLA.png,NASDAQ
+WMT,Mr. C. Douglas McMillon,Walmart Inc.,155.3,Consumer Defensive,Bentonville,AR,US,72716,24100000,https://financialmodelingprep.com/image-stock/WMT.png,NYSE
