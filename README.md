@@ -1,1 +1,2 @@
-# intermediate-stock-dashboard
+# Stock Dashboard for Intermediates and Beginners
+
